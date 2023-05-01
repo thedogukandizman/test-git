@@ -2,3 +2,5 @@ hello this is me Dogukan
 I am 26 years old.
 I am Turkish  
 years 
+
+I have done my masters in software web and cloud at Tampere University
