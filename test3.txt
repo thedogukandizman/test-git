@@ -1,2 +1,2 @@
-i am special and someone cause i was created from feature2
-im line 2 from feature4 
+
+im the second line from master branch
